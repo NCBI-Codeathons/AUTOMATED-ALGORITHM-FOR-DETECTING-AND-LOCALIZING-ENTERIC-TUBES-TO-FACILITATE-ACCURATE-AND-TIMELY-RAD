@@ -99,14 +99,16 @@ Sub-optimal tube placement can be remedied and addressed immediately
 
 ## Introduction
 
-Misplaced enteric tubes can result in signicant morbidity, including pneumothorax, pleural effusion, retropharyngeal abscess and lung abscess. Complications with enteric tubes arise in diverse ways with one such case study showing a "scan of the head revealed that the small-bore feeding tube had violated the cranial base repair and entered the brain stem and spinal cord" (). 
+Signicant morbidity, including pneumothorax, pleural effusion, retropharyngeal abscess and lung abscess are all direct results of misplaced enteric tubes. Complications with enteric tubes arise in diverse ways with one such case study showing a "scan of the head revealed that the small-bore feeding tube had violated the cranial base repair and entered the brain stem and spinal cord" (Hanna et al. 2011). 
 
-Clinical impact remains significant. A study of 39 children with inserted tubes showed, "Tube placement error occurred in 43.5% of tubes at least once during the observation period" (Ellett et al. 2005). Another study conducted of 2000 enteric tube insertions showed "13 complications (26% of malpositions), including 2 deaths, which were directly attributed to the feeding-tube malposition" (). Complications of misplaced enteric tubes occur across patient populations and result in severe complications.
+Clinical impact remains significant. A study of 39 children with inserted tubes showed, "Tube placement error occurred in 43.5% of tubes at least once during the observation period" (Ellett et al. 2005). Another study conducted of 2000 enteric tube insertions showed "13 complications (26% of malpositions), including 2 deaths, which were directly attributed to the feeding-tube malposition" (Sorokin et al. 2006). Complications of misplaced enteric tubes occur across patient populations and result in severe complications.
 
-Detected misplaced enteric tubes can be done with multiple methods but radiography is gold standard
+Detected misplaced enteric tubes can be done with multiple methods however, "[r]adiography remains the gold standard for determining
+feeding tube location" (Metheny et al. 2007). Even with the gold standard of enteric tube localization, accurate and timely detection remains an issue. The following image is an example of the radiological images that are reviewed for enteric tube placement:
 
-Finding enteric tubes through x-ray scans is difficult and radiologists may make mistakes. 
+![Alt Image Text]( "Optional Title")
+![](https://pasteboard.co/IFWJ8FrA.png)
 
-In addition, sub-optimal placement is not readily reported and may cause discomfort for patients. The time taken to review and approve tube placement is also significant.
+These enteric tubes can be difficult to see and radiologists faced with time constraints can easily make mistakes when localizing and reporting these enteric tubes. Reporting information back to the physicans and clinical workers requesting the radiological scan must be completed within an hour. This lack of immediate feedback places time constraints on both the radiologists and clinical workers requesting the radiological scans. In addition, sub-optimal placement is not readily reported and may cause discomfort for patients. 
 
-Having a tool to assist radiologists in reviewing enteric tube scans may minimize patient discomfort and increase time efficiency.
+Having a tool to assist radiologists in reviewing enteric tube scans would decrease incidents of misplaced enteric tubes and increase the efficiency of the scan review process.
