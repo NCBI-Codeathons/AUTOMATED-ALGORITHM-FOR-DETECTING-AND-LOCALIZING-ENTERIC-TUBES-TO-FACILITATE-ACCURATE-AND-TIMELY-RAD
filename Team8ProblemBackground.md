@@ -12,10 +12,6 @@ gold standard for determining feeding tube location
 “We require a chest roentgenogram prior to the initiation of feeding. However, the interpretation of a radiograph in critically ill patients can be difficult. As in previous studies, we observed errors in interpretation which resulted in significant morbidity [6,14]. One of our patient deaths was directly attributable to the initiation of feeding after a tube was misinterpreted as being in proper position on the chest roentgenogram.”
 “To decrease the inherent risks, it is advisable to have only trained operators perform this procedure.” 
 “There have been several strategies suggested to avoid inadvertent tracheopulmonary placement of enteral feeding tubes. These have included fluoroscopy, laryngoscopy and endoscopy-guided insertion [9,12,14]. All of these techniques would increase cost and time for insertion and require the availability of specialist assistance. Insertion of the enteral feeding tube without the stylet is difficult.”
-* Inadvertent insertion of nasogastric tube into the brain stem and spinal cord after endoscopic skull base surgery
-	* https://www.sciencedirect.com/science/article/pii/S0196070911000755?via%3Dihub
-	* Photos
-	* “Currently, at our institution, we have implemented a guideline concerning the placement of small-bore feeding tubes in vulnerable patients. At-risk patients are defined as those who are intubated; have tracheostomies; are neurologically impaired; have an altered mental status impairing their ability to protect their airway; are determined, for any reason, to be unable to protect their airway; or have anatomical abnormalities that could preclude the safe passage of a feeding tube. In this patient population, it is required that the tip of the feeding tube be visualized directly, endoscopically, or radiographically as it passes from the nose to the esophageal inlet.”
 * Enhancing patient safety during feeding-tube insertion: a review of more than 2,000 insertions
 	* https://www.ncbi.nlm.nih.gov/pubmed/16931614
 	* “Of all small-bore nasogastric feeding-tube placements, 1.3%-2.4% resulted in 50 documented cases of feeding-tube malpositions during 4 years. Over half of the 50 patients were mechanically ventilated, and only 2 had a normal mental status. There were 13 complications (26% of malpositions), including 2 deaths, which were directly attributed to the feeding-tube malposition. Only 2 of the 13 complications and none of the misplacements had been recorded in the risk management database”
@@ -23,7 +19,10 @@ gold standard for determining feeding tube location
 
 ### Case Study
 
-
+* Inadvertent insertion of nasogastric tube into the brain stem and spinal cord after endoscopic skull base surgery
+	* https://www.sciencedirect.com/science/article/pii/S0196070911000755?via%3Dihub
+	* Photos
+	* “Currently, at our institution, we have implemented a guideline concerning the placement of small-bore feeding tubes in vulnerable patients. At-risk patients are defined as those who are intubated; have tracheostomies; are neurologically impaired; have an altered mental status impairing their ability to protect their airway; are determined, for any reason, to be unable to protect their airway; or have anatomical abnormalities that could preclude the safe passage of a feeding tube. In this patient population, it is required that the tip of the feeding tube be visualized directly, endoscopically, or radiographically as it passes from the nose to the esophageal inlet.”
 
 ### Patient Statistics
 
@@ -100,7 +99,9 @@ Sub-optimal tube placement can be remedied and addressed immediately
 
 ## Introduction
 
-Misplaced enteric tubes can cause issues
+Misplaced enteric tubes, while rare, can often result in significant patient complications and death. Complications with enteric tubes arise in diverse ways with one such case study showing a "scan of the head revealed that the small-bore feeding tube had violated the cranial base repair and entered the brain stem and spinal cord" (). In addition, a study conducted of 2000 enteric tube insertions showed "13 complications (26% of malpositions), including 2 deaths, which were directly attributed to the feeding-tube malposition" (). These misplaced enteric tubes risk patient safety 
+
+Reasons why misplaced enteric tubes occur
 
 Detected misplaced enteric tubes can be done with multiple methods but radiography is gold standard
 
@@ -108,4 +109,4 @@ Finding enteric tubes through x-ray scans is difficult and radiologists may make
 
 In addition, sub-optimal placement is not readily reported and may cause discomfort for patients. The time taken to review and approve tube placement is also significant.
 
-Having a tool to 
+Having a tool to assist radiologists in reviewing enteric tube scans may minimize patient discomfort and increase time efficiency.
