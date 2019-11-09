@@ -99,9 +99,9 @@ Sub-optimal tube placement can be remedied and addressed immediately
 
 ## Introduction
 
-Misplaced enteric tubes, while rare, can often result in significant patient complications and death. Complications with enteric tubes arise in diverse ways with one such case study showing a "scan of the head revealed that the small-bore feeding tube had violated the cranial base repair and entered the brain stem and spinal cord" (). In addition, a study conducted of 2000 enteric tube insertions showed "13 complications (26% of malpositions), including 2 deaths, which were directly attributed to the feeding-tube malposition" (). These misplaced enteric tubes risk patient safety 
+Misplaced enteric tubes can result in signicant morbidity, including pneumothorax, pleural effusion, retropharyngeal abscess and lung abscess. Complications with enteric tubes arise in diverse ways with one such case study showing a "scan of the head revealed that the small-bore feeding tube had violated the cranial base repair and entered the brain stem and spinal cord" (). 
 
-Reasons why misplaced enteric tubes occur
+Clinical impact remains significant. A study of 39 children with inserted tubes showed, "Tube placement error occurred in 43.5% of tubes at least once during the observation period" (Ellett et al. 2005). Another study conducted of 2000 enteric tube insertions showed "13 complications (26% of malpositions), including 2 deaths, which were directly attributed to the feeding-tube malposition" (). Complications of misplaced enteric tubes occur across patient populations and result in severe complications.
 
 Detected misplaced enteric tubes can be done with multiple methods but radiography is gold standard
 
