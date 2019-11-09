@@ -45,7 +45,7 @@ Clinical impact remains significant. A study of 39 children with inserted tubes 
 Detected misplaced enteric tubes can be done with multiple methods however, "[r]adiography remains the gold standard for determining
 feeding tube location" (Metheny et al. 2007). Even with the gold standard of enteric tube localization, accurate and timely detection remains an issue. The following image is an example of the radiological images that are reviewed for enteric tube placement:
 
-![](/Users/juliannarvaez/Desktop/EntericTubeExample.png)
+![](/https://github.com/NCBI-Codeathons/NGsquared/blob/master/EntericTubeExample.png)
 
 These enteric tubes can be difficult to see and radiologists faced with time constraints can easily make mistakes when localizing and reporting these enteric tubes. Reporting information back to the physicans and clinical workers requesting the radiological scan must be completed within an hour. This lack of immediate feedback places time constraints on both the radiologists and clinical workers requesting the radiological scans. In addition, sub-optimal placement is not readily reported and may cause discomfort for patients. 
 
